@@ -215,7 +215,7 @@ function main_window_action() {
     shopinfostatus = 0;
   }
   shopinfostatus = shopinfostatus + 1;
-
+  console.log(shopinfostatus);
 }
 
 const main_window123 = document.getElementById("main_window");
